@@ -1,24 +1,9 @@
-# HELLO WORLD
-## HELLO
-### WORLD
-#### WHAT
-##### IS
-###### MARKDOWN
+# hello git
 
-??
+## git 명령어 요약
 
-
-Markdown is a way to style text on the web. You control the display of the document; formatting words as **bold** or *italic*, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *. [Let's go NAVER](http://www.naver.com)
-
-
-My Friends
-1. Maria
-2. Jackson
-3. Apple
-
-
-My Island
-* Happy
-* Love
-* Wonderful
+- clone: 원격 저장소 복사
+- add: 스테이지 영역에 작업 파일 추가
+- commit: 세이브, 스테이지 영역의 파일들을 가지고 커밋(=세이브)를 만들 수 있다.
+- push: 원격 저장소에 커밋을 업로드한다.
 
